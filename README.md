@@ -30,7 +30,7 @@
 ## `whoami`
 
 ```python
-adithya = {
+Adithya Krishnan R = {
     "role"      : "Control Systems & FSM Intern @ Spaceborn",
     "background": "B.Tech Electronics & Communication Engineering",
     "location"  : "Dubai, UAE",
