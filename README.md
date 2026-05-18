@@ -1,39 +1,126 @@
-## Hi there 👋
-# 💫 About Me:
-I’m an Electronics & Communication Engineering graduate with a strong interest in software development and embedded systems. I have hands-on experience building real-world projects that combine Arduino, Python, C/C++, computer vision, and hardware design, including an award-winning gesture-controlled prosthetic hand. I enjoy developing efficient software while also understanding the electronics beneath it, and I aim to grow as a software-focused engineer with a solid hardware foundation.
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    ADITHYA KRISHNAN R — GitHub Profile                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adithyakrishnan01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radithyakrishnan01@gmail.com) 
+```
+╔═══════════════════════════════════════════════════════╗
+║   BOOTING SYSTEM...                                   ║
+║   > Loading: Electronics Engineer                     ║
+║   > Loading: Embedded Systems                         ║
+║   > Loading: Drone Control Logic                      ║
+║   > Status: ONLINE — Dubai, UAE 🇦🇪                   ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=themutedsketch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=themutedsketch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=themutedsketch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Adithya Krishnan R
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=themutedsketch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Electronics & Embedded Systems Engineer**
+*Building things that move, think, and fly.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyakrishnan01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radithyakrishnan01@gmail.com)
+![Location](https://img.shields.io/badge/Dubai-UAE-185FA5?style=for-the-badge)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=themutedsketch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**themutedsketch/themutedsketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## `whoami`
 
-Here are some ideas to get you started:
+```python
+adithya = {
+    "role"      : "Control Systems & FSM Intern @ Spaceborn",
+    "background": "B.Tech Electronics & Communication Engineering",
+    "location"  : "Dubai, UAE",
+    "currently" : ["Writing drone FSM logic", "Pursuing CCNA", "Building cool stuff"],
+    "ask_me_about": ["Embedded Systems", "PCB Design", "STM32", "Drone Logic", "Arduino"],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Embedded & Hardware**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![KiCAD](https://img.shields.io/badge/KiCAD-314CB0?style=flat-square)
+![Multisim](https://img.shields.io/badge/Multisim-57B685?style=flat-square)
+
+**Programming**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools**
+
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Networking (In Progress)**
+
+![Cisco](https://img.shields.io/badge/CCNA_In_Progress-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/TCP/IP_·_VLANs_·_Subnetting-grey?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+### 🦾 Prosthetic Hand — Gesture Control
+> *EMG + Computer Vision · Arduino · Python · Shapr3D*
+
+An award-winning prosthetic hand that reads muscle signals and uses computer vision to translate gestures into precise grip control and finger articulation. Designed for real-world wearability.
+
+🏆 **Best Paper Award — NGIEC 2024**
+🥇 **1st Prize — AIKYA 2023**
+
+---
+
+### 📡 3D Scanner — Arduino Nano
+> *Arduino Nano · IR Sensors · Embedded C*
+
+A compact, low-cost 3D scanner using a rotary platform and calibrated IR sensors to map objects in 3D space — built for hobbyist-level scanning on a budget.
+
+---
+
+### 💡 3×3×3 LED Cube Matrix
+> *Arduino Uno · Time-Division Multiplexing · Embedded C*
+
+27 LEDs. One Arduino. Endless animations. Built using time-division multiplexing to drive a full 3D LED matrix with synchronised patterns.
+
+🥈 **Runner-up — AIKYA 2021**
+
+---
+
+## 📌 What I'm Up To
+
+- 🛸 Writing FSM-based drone control logic at **Spaceborn** using **STM32**
+- 📡 Studying for **CCNA** — TCP/IP, VLANs, Routing & Switching
+- 🔧 Exploring the intersection of **embedded systems** and **autonomous systems**
+
+---
+
+## 📬 Let's Connect
+
+I'm open to entry-level opportunities in **embedded systems**, **electronics**, **PCB design**, or **networking** in the UAE.
+
+> 📧 radithyakrishnan01@gmail.com
+> 💼 [linkedin.com/in/adithyakrishnan01](https://linkedin.com/in/adithyakrishnan01)
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=themutedsketch.themutedsketch)
+
+</div>
