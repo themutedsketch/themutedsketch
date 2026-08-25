@@ -1,214 +1,123 @@
-<!-- ========================================================= -->
 
-<!--                    ADITHYA KRISHNAN                       -->
 
-<!-- ========================================================= -->
 
 <div align="center">
 
-⚡ Adithya Krishnan
-
-Electronics & Embedded Systems Engineer
-
-Robotics • Embedded Systems • Automation • Electronics
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+hardware+that+thinks+and+systems+that+move;Electronics+%7C+Embedded+Systems+%7C+Robotics;Hardware+%2B+Firmware+%2B+Control;Turning+engineering+ideas+into+working+systems" alt="Typing animation" />
+<img src="assets/hero.svg" alt="Adithya Krishnan — Electronics and Embedded Systems Engineer" width="100%">
 
 <br>
 
 
 
-
-
-<br>
 
 
 
 </div>
 
-🧭 About Me
+<table> <tr> <td width="62%" valign="top">
 
-I'm an Electronics & Communication Engineering graduate working at the intersection of electronics, embedded systems, robotics, and hardware-software integration.
+About
+I'm an Electronics & Communication Engineering graduate working across embedded systems, robotics, electronics, automation, and hardware-software integration.
 
-I'm a Robotics Trainer and Director of Core Systems at Spaceborn, while continuing to build hands-on experience across embedded systems, control-oriented engineering, PCB design, robotics, and automation.
+I'm a Robotics Trainer and Director of Core Systems at Spaceborn. My engineering interests sit close to the hardware: microcontrollers, circuits, sensors, actuators, firmware, control-oriented systems, and physical prototypes.
 
-I enjoy working close to the hardware — from circuits and microcontrollers to firmware, sensors, actuators, and physical systems.
+I like building systems where the interesting part isn't just the code or the circuit — it's the interaction between them.
 
-My goal: build engineering systems where hardware and software work together as one.
+</td> <td width="38%" valign="top">
 
-🎯 Current Focus
+ENGINEERING SIGNAL
+ELECTRONICS
+     ↓
+EMBEDDED
+     ↓
+CONTROL
+     ↓
+ROBOTICS
+     ↓
+PHYSICAL SYSTEMS
+Focus: turning ideas into working hardware.
 
-<table>
-<tr>
-<td width="50%">
+</td> </tr> </table>
 
-⚙️ Embedded Systems
+Current Focus
+Embedded	Robotics	Electronics	Systems
+STM32	Automation	PCB Design	Control Systems
+Arduino	Sensors	KiCad	Hardware Integration
+Embedded C	Actuators	Circuit Design	Networking Fundamentals
+Microcontrollers	Motor Control	Prototyping	Autonomous Systems
+Technology Stack
+<div align="center">
 
-STM32
+PROGRAMMING
 
-Arduino
 
-Embedded C
 
-Microcontroller systems
 
-Sensors & actuators
 
-</td>
-<td width="50%">
 
-🤖 Robotics & Automation
+EMBEDDED & HARDWARE
 
-Robotic systems
 
-Automation
 
-Motor control
 
-Hardware-software integration
 
-Autonomous systems
 
-</td>
-</tr>
 
-<tr>
-<td width="50%">
+TOOLS & ENGINEERING
 
-🔌 Electronics
 
-Circuit design
 
-PCB design
 
-Hardware prototyping
 
-KiCad
 
-Embedded electronics
+</div>
 
-</td>
-<td width="50%">
-
-🌐 Expanding Knowledge
-
-Control systems
-
-Networking fundamentals
-
-TCP/IP
-
-Routing & switching
-
-VLANs
-
-</td>
-</tr>
-</table>
-
-🛠️ Technology Stack
-
-💻 Programming
-
-
-
-
-
-
-🔧 Embedded
-
-
-
-
-🔌 Hardware & PCB
-
-
-
-
-
-🤖 Robotics
-
-
-
-
-
-
-🧰 Engineering Tools
-
-
-
-
-
-
-🧠 Engineering Philosophy
-
-I like thinking about engineering systems as a complete chain rather than isolated components.
-
-             ┌───────────────┐
-             │    SENSORS    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ MICROCONTROLLER│
-             │ Arduino / STM32│
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   PROCESSING  │
-             │   / CONTROL   │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   ACTUATORS   │
-             │ Motors / Servos│
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │PHYSICAL SYSTEM│
-             └───────────────┘
+System Thinking
+<div align="center"> <img src="assets/system-flow.svg" alt="Sensors to microcontroller to control to actuators to physical system" width="100%"> </div>
 
 Sense → Process → Decide → Act → Iterate
 
-🚀 Featured Engineering Projects
+This is the engineering layer I enjoy most: connecting electronics, firmware, control logic and physical behaviour into one system.
+
+Selected Engineering Work
+<table> <tr> <td width="50%" valign="top">
 
 🦾 Gesture-Controlled Prosthetic Hand
+EMG + Computer Vision
 
-EMG + Computer Vision | Arduino + Python
+A prosthetic hand project combining EMG input, computer vision, Arduino control, servo-driven articulation and 3D modelling.
 
-A prosthetic hand project combining EMG-based input, computer vision, servo-driven finger articulation, and 3D modelling to create a gesture-controlled robotic prosthetic system.
+Concepts
 
-Engineering concepts
-
-EMG signal interaction
+EMG interaction
 
 Computer vision
 
 Servo control
 
-Arduino-based control
+Arduino + Python
 
 Hardware/software integration
 
-3D modelling & mechanical design
+3D modelling
+
+Recognition
 
 🏆 Best Paper Award — NGIEC 2024
 🥇 1st Prize — AIKYA 2023
 
-Arduino Python EMG Computer Vision Servo Motors Shapr3D
+Arduino Python EMG Computer Vision
 
 Repository: YOUR_REPOSITORY_LINK
 
+</td> <td width="50%" valign="top">
+
 📡 Arduino 3D Scanner
+Arduino Nano + Sensors
 
-Arduino Nano | Sensors | Motor Control
+A compact 3D scanning project using an Arduino Nano, rotary platform, sensors and controlled motor rotation for object mapping.
 
-A compact 3D scanning project using an Arduino Nano, rotary platform, sensors, and controlled motor rotation for object mapping.
-
-Engineering concepts
+Concepts
 
 Sensor calibration
 
@@ -220,17 +129,20 @@ Arduino Nano
 
 Hardware prototyping
 
-Arduino Nano Sensors Motor Control 3D Scanning
+Arduino Nano Sensors Motor Control
 
 Repository: YOUR_REPOSITORY_LINK
 
+</td> </tr>
+
+<tr> <td width="50%" valign="top">
+
 💡 3×3×3 LED Cube
+Digital Electronics + Multiplexing
 
-Arduino Uno | Digital Electronics | Multiplexing
+A 27-LED three-dimensional display using time-division multiplexing for synchronized animations.
 
-A 27-LED three-dimensional display engineered around time-division multiplexing for synchronized LED animations.
-
-Engineering concepts
+Concepts
 
 Digital electronics
 
@@ -244,93 +156,65 @@ Arduino programming
 
 🏆 Runner-up — AIKYA 2021
 
-Arduino Uno LEDs Digital Electronics Multiplexing
+Arduino Uno LEDs Multiplexing
 
 Repository: YOUR_REPOSITORY_LINK
 
-<details>
-<summary><b>🔬 More Engineering Work</b></summary>
+</td> <td width="50%" valign="top">
 
-<br>
-
-My broader engineering work spans:
+🔬 Engineering Portfolio
+My broader work and interests cover:
 
 Embedded systems
 
+Robotics & automation
+
 PCB design
+
+Sensors & actuators
+
+Microcontroller systems
 
 Circuit prototyping
 
-Robotics
-
-Automation
-
-Sensors and actuators
-
-Microcontroller-based systems
-
 Hardware-software integration
 
-Additional repository links can be added here as projects become public.
+Public repositories will be added here as projects are documented.
 
-</details>
+</td> </tr> </table>
 
-📊 GitHub Activity
-
+GitHub Activity
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=themutedsketch&theme=github_dark" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=themutedsketch&theme=github_dark" height="170" alt="GitHub statistics">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themutedsketch&theme=github_dark" alt="Top repository languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themutedsketch&theme=github_dark" height="170" alt="Repository languages">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themutedsketch&theme=github_dark" width="96%" alt="GitHub contribution activity">
 
 </div>
 
-📈 Contribution Graph
-
+Nyan Mode
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themutedsketch&theme=github_dark" alt="Adithya's GitHub contribution graph and profile summary" width="100%" />
+<img src="assets/nyan-cat.gif" width="360" alt="Flying rainbow Nyan Cat">
+
+NON-ESSENTIAL SUBSYSTEM • 100% FUN • 0% SAFETY CRITICAL
 
 </div>
 
-🏅 GitHub Profile
-
+Connect
 <div align="center">
 
 
 
-
-
-</div>
-
-🌈🐱 Nyan Mode
-
-<div align="center">
-
-<img src="assets/nyan-cat.gif" width="420" alt="Flying rainbow Nyan Cat">
-
-Because every engineering lab needs one unnecessary but important subsystem.
-
-</div>
-
-📬 Connect With Me
-
-<div align="center">
-
-
-
-
-
-
-
-</div>
-
-<div align="center">
-
-BUILD → TEST → DEBUG → IMPROVE
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:161b22" width="100%" alt="Engineering themed footer" />
+Open to conversations around embedded systems, robotics, electronics and engineering.
 
 </div>
+
+<div align="center"> <img src="assets/footer.svg" alt="Build test debug improve engineering footer" width="100%"> </div>
