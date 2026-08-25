@@ -1,61 +1,8 @@
+⚡ Adithya Krishnan
 
+Electronics & Embedded Systems Engineer
 
-
-<div align="center">
-
-<img src="assets/hero.svg" alt="Adithya Krishnan — Electronics and Embedded Systems Engineer" width="100%">
-
-<br>
-
-
-
-
-
-
-</div>
-
-<table> <tr> <td width="62%" valign="top">
-
-About
-I'm an Electronics & Communication Engineering graduate working across embedded systems, robotics, electronics, automation, and hardware-software integration.
-
-I'm a Robotics Trainer and Director of Core Systems at Spaceborn. My engineering interests sit close to the hardware: microcontrollers, circuits, sensors, actuators, firmware, control-oriented systems, and physical prototypes.
-
-I like building systems where the interesting part isn't just the code or the circuit — it's the interaction between them.
-
-</td> <td width="38%" valign="top">
-
-ENGINEERING SIGNAL
-ELECTRONICS
-     ↓
-EMBEDDED
-     ↓
-CONTROL
-     ↓
-ROBOTICS
-     ↓
-PHYSICAL SYSTEMS
-Focus: turning ideas into working hardware.
-
-</td> </tr> </table>
-
-Current Focus
-Embedded	Robotics	Electronics	Systems
-STM32	Automation	PCB Design	Control Systems
-Arduino	Sensors	KiCad	Hardware Integration
-Embedded C	Actuators	Circuit Design	Networking Fundamentals
-Microcontrollers	Motor Control	Prototyping	Autonomous Systems
-Technology Stack
-<div align="center">
-
-PROGRAMMING
-
-
-
-
-
-
-EMBEDDED & HARDWARE
+Robotics • Embedded Systems • Automation • Electronics
 
 
 
@@ -63,61 +10,169 @@ EMBEDDED & HARDWARE
 
 
 
-TOOLS & ENGINEERING
+🧭 About Me
+
+I'm an Electronics & Communication Engineering graduate working at the intersection of electronics, embedded systems, robotics, and hardware-software integration.
+
+I'm a Robotics Trainer and Director of Core Systems at Spaceborn, while continuing to build hands-on experience across embedded systems, control-oriented engineering, PCB design, robotics, and automation.
+
+I enjoy working close to the hardware—from circuits and microcontrollers to firmware, sensors, actuators, and physical systems.
+
+My goal: build engineering systems where hardware and software work together as one.
+
+🎯 Current Focus
+
+⚙️ Embedded Systems
+
+STM32
+
+Arduino
+
+Embedded C
+
+Microcontroller systems
+
+Sensors & actuators
+
+🤖 Robotics & Automation
+
+Robotic systems
+
+Automation
+
+Motor control
+
+Hardware-software integration
+
+Autonomous systems
+
+🔌 Electronics
+
+Circuit design
+
+PCB design
+
+Hardware prototyping
+
+KiCad
+
+Embedded electronics
+
+🌐 Expanding Knowledge
+
+Control systems
+
+Networking fundamentals
+
+TCP/IP
+
+Routing & switching
+
+VLANs
+
+🛠️ Technology Stack
+
+💻 Programming
 
 
 
 
 
 
-</div>
+🔧 Embedded
 
-System Thinking
-<div align="center"> <img src="assets/system-flow.svg" alt="Sensors to microcontroller to control to actuators to physical system" width="100%"> </div>
+
+
+
+🔌 Hardware & PCB
+
+
+
+
+
+🤖 Robotics
+
+
+
+
+
+
+🧰 Engineering Tools
+
+
+
+
+
+
+🧠 Engineering Philosophy
+
+I like thinking about engineering systems as a complete chain rather than isolated components.
+
+             ┌───────────────┐
+             │    SENSORS    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │MICROCONTROLLER│
+             │ Arduino / STM32│
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   PROCESSING  │
+             │  / CONTROL    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   ACTUATORS   │
+             │ Motors / Servos│
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │PHYSICAL SYSTEM│
+             └───────────────┘
 
 Sense → Process → Decide → Act → Iterate
 
-This is the engineering layer I enjoy most: connecting electronics, firmware, control logic and physical behaviour into one system.
-
-Selected Engineering Work
-<table> <tr> <td width="50%" valign="top">
+🚀 Featured Engineering Projects
 
 🦾 Gesture-Controlled Prosthetic Hand
-EMG + Computer Vision
 
-A prosthetic hand project combining EMG input, computer vision, Arduino control, servo-driven articulation and 3D modelling.
+EMG + Computer Vision | Arduino + Python
 
-Concepts
+A prosthetic hand project combining EMG-based input, computer vision, servo-driven finger articulation, and 3D modelling to create a gesture-controlled robotic prosthetic system.
 
-EMG interaction
+Engineering concepts
+
+EMG signal interaction
 
 Computer vision
 
 Servo control
 
-Arduino + Python
+Arduino-based control
 
 Hardware/software integration
 
-3D modelling
-
-Recognition
+3D modelling & mechanical design
 
 🏆 Best Paper Award — NGIEC 2024
 🥇 1st Prize — AIKYA 2023
 
-Arduino Python EMG Computer Vision
+Arduino Python EMG Computer Vision Servo Motors Shapr3D
 
 Repository: YOUR_REPOSITORY_LINK
 
-</td> <td width="50%" valign="top">
-
 📡 Arduino 3D Scanner
-Arduino Nano + Sensors
 
-A compact 3D scanning project using an Arduino Nano, rotary platform, sensors and controlled motor rotation for object mapping.
+Arduino Nano | Sensors | Motor Control
 
-Concepts
+A compact 3D scanning project using an Arduino Nano, rotary platform, sensors, and controlled motor rotation for object mapping.
+
+Engineering concepts
 
 Sensor calibration
 
@@ -129,20 +184,17 @@ Arduino Nano
 
 Hardware prototyping
 
-Arduino Nano Sensors Motor Control
+Arduino Nano Sensors Motor Control 3D Scanning
 
 Repository: YOUR_REPOSITORY_LINK
 
-</td> </tr>
-
-<tr> <td width="50%" valign="top">
-
 💡 3×3×3 LED Cube
-Digital Electronics + Multiplexing
 
-A 27-LED three-dimensional display using time-division multiplexing for synchronized animations.
+Arduino Uno | Digital Electronics | Multiplexing
 
-Concepts
+A 27-LED three-dimensional display engineered around time-division multiplexing for synchronized LED animations.
+
+Engineering concepts
 
 Digital electronics
 
@@ -156,65 +208,82 @@ Arduino programming
 
 🏆 Runner-up — AIKYA 2021
 
-Arduino Uno LEDs Multiplexing
+Arduino Uno LEDs Digital Electronics Multiplexing
 
 Repository: YOUR_REPOSITORY_LINK
 
-</td> <td width="50%" valign="top">
-
-🔬 Engineering Portfolio
-My broader work and interests cover:
+My broader engineering work spans:
 
 Embedded systems
 
-Robotics & automation
-
 PCB design
-
-Sensors & actuators
-
-Microcontroller systems
 
 Circuit prototyping
 
+Robotics
+
+Automation
+
+Sensors and actuators
+
+Microcontroller-based systems
+
 Hardware-software integration
 
-Public repositories will be added here as projects are documented.
+Additional repository links can be added here as projects become public.
 
-</td> </tr> </table>
+📊 GitHub Activity
 
-GitHub Activity
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=themutedsketch&theme=github_dark" height="170" alt="GitHub statistics">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=themutedsketch&theme=github_dark" height="180" alt="GitHub statistics">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themutedsketch&theme=github_dark" height="170" alt="Repository languages">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themutedsketch&theme=github_dark" width="96%" alt="GitHub contribution activity">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themutedsketch&theme=github_dark" height="180" alt="Top repository languages">
 
 </div>
 
-Nyan Mode
+📈 Contribution Graph
+
 <div align="center">
 
-<img src="assets/nyan-cat.gif" width="360" alt="Flying rainbow Nyan Cat">
-
-NON-ESSENTIAL SUBSYSTEM • 100% FUN • 0% SAFETY CRITICAL
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themutedsketch&theme=github_dark" width="100%" alt="Adithya's GitHub contribution activity">
 
 </div>
 
-Connect
+🏅 GitHub Profile
+
 <div align="center">
 
 
 
 
-<br>
-
-Open to conversations around embedded systems, robotics, electronics and engineering.
 
 </div>
 
-<div align="center"> <img src="assets/footer.svg" alt="Build test debug improve engineering footer" width="100%"> </div>
+🌈🐱 Nyan Mode
+
+<div align="center">
+
+<img src="assets/nyan-cat.gif" width="420" alt="Flying rainbow Nyan Cat">
+
+Because every engineering lab needs one unnecessary but important subsystem.
+
+</div>
+
+📬 Connect With Me
+
+<div align="center">
+
+
+
+
+
+
+
+</div>
+
+<div align="center">
+
+BUILD → TEST → DEBUG → IMPROVE
+
+</div>
