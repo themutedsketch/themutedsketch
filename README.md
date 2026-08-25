@@ -1,192 +1,323 @@
+<!-- ========================================================= -->
+
+<!--                    ADITHYA KRISHNAN                       -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adithya%20Krishnan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20%7C%20Robotics%20%7C%20Embedded%20Systems&descAlignY=58&descSize=20" width="100%"/>
+# ⚡ Adithya Krishnan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Electronics+%26+Embedded+Systems;Robotics+%26+Automation;Building+Hardware+%2B+Software+Systems;Robotics+Trainer+%F0%9F%A4%96;Always+Building+Something+%F0%9F%9A%80" />
+### Electronics & Embedded Systems Engineer
+
+**Robotics • Embedded Systems • Automation • Electronics**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+hardware+that+thinks+and+systems+that+move;Electronics+%7C+Embedded+Systems+%7C+Robotics;Hardware+%2B+Firmware+%2B+Control;Turning+engineering+ideas+into+working+systems" alt="Typing animation" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-themutedsketch-181717?style=for-the-badge\&logo=github)](https://github.com/themutedsketch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya%20Krishnan-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/adithyakrishnan01)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:radithyakrishnan01@gmail.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=themutedsketch\&style=flat-square\&color=58A6FF)
 
 </div>
 
 ---
 
-<div align="center">
+## 🧭 About Me
 
-### 🌈🐱 Incoming Transmission...
+I'm an **Electronics & Communication Engineering graduate** working at the intersection of **electronics, embedded systems, robotics, and hardware-software integration**.
 
-<img src="https://media.tenor.com/3E2WJQ0h8VAAAAAC/nyan-cat-rainbow.gif" width="500"/>
+I'm a **Robotics Trainer** and **Director of Core Systems at Spaceborn**, while continuing to build hands-on experience across embedded systems, control-oriented engineering, PCB design, robotics, and automation.
 
-**NYAN SYSTEM: ONLINE 🟢**
+I enjoy working close to the hardware—from **circuits and microcontrollers to firmware, sensors, actuators, and physical systems**.
 
-</div>
-
----
-
-# 👋 About Me
-
-I'm an **Electronics & Communication Engineer, Robotics Trainer, and engineering professional at Spaceborn**, passionate about **embedded systems, robotics, electronics, automation, and hardware-software integration**.
-
-I enjoy turning concepts into working systems — combining **microcontrollers, sensors, actuators, control logic, and software** to create practical engineering projects.
-
-As a **Robotics Trainer**, I design and teach hands-on robotics and electronics projects, helping students learn through building, testing, debugging, and experimentation.
-
-My technical interests include:
-
-* 🤖 Robotics & Automation
-* 🔌 Embedded Systems
-* ⚡ Electronics & Circuit Design
-* 🚁 Autonomous Systems
-* 🧠 Control Logic
-* 🔧 PCB Design
-* 💻 C/C++ & Python
-* 📡 Sensors & Actuators
-* 🛠️ Hardware-Software Integration
-
-> **I like building things that move, react, sense, and think.**
+> **My goal:** build engineering systems where hardware and software work together as one.
 
 ---
 
-# 🧰 Tech Stack
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Embedded Systems
+
+* STM32
+* Arduino
+* Embedded C
+* Microcontroller systems
+* Sensors & actuators
+
+</td>
+<td width="50%">
+
+### 🤖 Robotics & Automation
+
+* Robotic systems
+* Automation
+* Motor control
+* Hardware-software integration
+* Autonomous systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔌 Electronics
+
+* Circuit design
+* PCB design
+* Hardware prototyping
+* KiCad
+* Embedded electronics
+
+</td>
+<td width="50%">
+
+### 🌐 Expanding Knowledge
+
+* Control systems
+* Networking fundamentals
+* TCP/IP
+* Routing & switching
+* VLANs
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
 
 ### 💻 Programming
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-### 🔌 Embedded & Electronics
+### 🔧 Embedded
 
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-</p>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
 
-### 🛠️ Tools
+### 🔌 Hardware & PCB
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-</p>
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge\&logo=kicad\&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB%20Design-Engineering-222222?style=for-the-badge)
+![Circuit Design](https://img.shields.io/badge/Circuit%20Design-Electronics-222222?style=for-the-badge)
 
----
+### 🤖 Robotics
 
-# 🚀 Featured Projects
+![Robotics](https://img.shields.io/badge/Robotics-Systems-222222?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Engineering-222222?style=for-the-badge)
+![Sensors](https://img.shields.io/badge/Sensors-Embedded-222222?style=for-the-badge)
+![Actuators](https://img.shields.io/badge/Actuators-Control-222222?style=for-the-badge)
 
-## 🤖 Gesture-Controlled Prosthetic Hand
+### 🧰 Engineering Tools
 
-**EMG + Computer Vision + Arduino + Python**
-
-A hardware-software project combining muscle-signal input, computer vision, Arduino control, servo motors, and 3D modelling.
-
-🏆 Best Paper Award — NGIEC 2024
-🥇 1st Prize — AIKYA 2023
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)
 
 ---
 
-## 🔍 Arduino 3D Scanner
+# 🧠 Engineering Philosophy
 
-**Arduino Nano + Sensors + Motor Control**
+I like thinking about engineering systems as a complete chain rather than isolated components.
 
-A compact scanning system using an Arduino Nano, distance sensing, and controlled rotation to map physical objects.
+```text
+             ┌───────────────┐
+             │    SENSORS    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ MICROCONTROLLER│
+             │ Arduino / STM32│
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   PROCESSING  │
+             │  / CONTROL    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   ACTUATORS   │
+             │ Motors / Servos│
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │PHYSICAL SYSTEM│
+             └───────────────┘
+```
+
+> **Sense → Process → Decide → Act → Iterate**
+
+---
+
+# 🚀 Featured Engineering Projects
+
+## 🦾 Gesture-Controlled Prosthetic Hand
+
+**EMG + Computer Vision | Arduino + Python**
+
+A prosthetic hand project combining **EMG-based input, computer vision, servo-driven finger articulation, and 3D modelling** to create a gesture-controlled robotic prosthetic system.
+
+**Engineering concepts**
+
+* EMG signal interaction
+* Computer vision
+* Servo control
+* Arduino-based control
+* Hardware/software integration
+* 3D modelling & mechanical design
+
+🏆 **Best Paper Award — NGIEC 2024**
+🥇 **1st Prize — AIKYA 2023**
+
+`Arduino` `Python` `EMG` `Computer Vision` `Servo Motors` `Shapr3D`
+
+**Repository:** `YOUR_REPOSITORY_LINK`
+
+---
+
+## 📡 Arduino 3D Scanner
+
+**Arduino Nano | Sensors | Motor Control**
+
+A compact 3D scanning project using an **Arduino Nano, rotary platform, sensors, and controlled motor rotation** for object mapping.
+
+**Engineering concepts**
+
+* Sensor calibration
+* Motor control
+* Rotational scanning
+* Arduino Nano
+* Hardware prototyping
+
+`Arduino Nano` `Sensors` `Motor Control` `3D Scanning`
+
+**Repository:** `YOUR_REPOSITORY_LINK`
 
 ---
 
 ## 💡 3×3×3 LED Cube
 
-**Arduino Uno + 27 LEDs + Multiplexing**
+**Arduino Uno | Digital Electronics | Multiplexing**
 
-A 3D LED matrix demonstrating digital outputs, timing, multiplexing, and synchronized animations.
+A 27-LED three-dimensional display engineered around **time-division multiplexing** for synchronized LED animations.
 
-🏆 Runner-up — AIKYA 2021
+**Engineering concepts**
 
----
+* Digital electronics
+* LED control
+* Multiplexing
+* Timing
+* Arduino programming
 
-## 🚀 Robotics & Automation Projects
+🏆 **Runner-up — AIKYA 2021**
 
-A collection of sensor-driven robotics projects involving:
+`Arduino Uno` `LEDs` `Digital Electronics` `Multiplexing`
 
-`Arduino` `Sensors` `Servos` `LEDs` `Buzzers` `Automation` `Control Logic`
-
----
-
-# 🧠 Engineering Interests
-
-```text
-       ┌──────────────┐
-       │    SENSOR    │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ MICROCONTROL │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ CONTROL LOGIC│
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   ACTUATOR   │
-       └──────┬───────┘
-              ↓
-          🤖 ROBOT
-```
+**Repository:** `YOUR_REPOSITORY_LINK`
 
 ---
 
-# 📊 GitHub Stats
+<details>
+<summary><b>🔬 More Engineering Work</b></summary>
+
+<br>
+
+My broader engineering work spans:
+
+* Embedded systems
+* PCB design
+* Circuit prototyping
+* Robotics
+* Automation
+* Sensors and actuators
+* Microcontroller-based systems
+* Hardware-software integration
+
+Additional repository links can be added here as projects become public.
+
+</details>
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=themutedsketch&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=themutedsketch&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themutedsketch&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themutedsketch&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=themutedsketch&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=themutedsketch&theme=tokyonight&hide_border=true"/>
+[![Adithya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=themutedsketch\&theme=github-compact\&hide_border=true)](https://github.com/themutedsketch)
 
 </div>
 
 ---
 
-# 🌈🐱 Nyan Cat Protocol
+# 🏅 GitHub Profile
 
 <div align="center">
 
-<img src="https://media.tenor.com/3E2WJQ0h8VAAAAAC/nyan-cat-rainbow.gif" width="350"/>
+[![Followers](https://img.shields.io/github/followers/themutedsketch?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/themutedsketch?tab=followers)
 
-### `STATUS: NYAN MODE ACTIVATED`
-
-🌈 🌈 🌈 🌈 🌈 🌈 🌈 🌈 🌈
+[![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge\&logo=github\&label=Public%20Repositories\&query=%24.public_repos\&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthemutedsketch)](https://github.com/themutedsketch?tab=repositories)
 
 </div>
 
 ---
 
-# 📫 Connect
+# 🌈🐱 Nyan Mode
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adithyakrishnan01/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="assets/nyan-cat.gif" width="420" alt="Flying rainbow Nyan Cat">
 
-<a href="mailto:radithyakrishnan01@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Because every engineering lab needs one unnecessary but important subsystem.
 
-<a href="https://github.com/themutedsketch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-themutedsketch-181717?style=for-the-badge\&logo=github)](https://github.com/themutedsketch)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya%20Krishnan-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/adithyakrishnan01)
+
+[![Email](https://img.shields.io/badge/Email-radithyakrishnan01%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:radithyakrishnan01@gmail.com)
 
 </div>
 
@@ -194,8 +325,10 @@ A collection of sensor-driven robotics projects involving:
 
 <div align="center">
 
-### ⚡ BUILD • TEST • DEBUG • REPEAT ⚡
+### `BUILD → TEST → DEBUG → IMPROVE`
 
-🌈🐱 **NYAN APPROVED** 🐱🌈
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:161b22" width="100%" />
 
 </div>
